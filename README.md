@@ -19,3 +19,7 @@ This is my README file.
 
 [My repo link](https://github.com/malvikasharan/friendly-collab-party)
 
+## Add image
+
+![cat image](https://upload.wikimedia.org/wikipedia/commons/0/01/Cat-1044750.jpg)
+
